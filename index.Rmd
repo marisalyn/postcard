@@ -1,0 +1,41 @@
+---
+title: "Marisa Henry"
+image: "headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/marisalyn/"
+  - label: Twitter
+    url: "https://twitter.com/marisalyn"
+  - label: GitHub
+    url: "https://github.com/marisalyn"
+  - label: Email
+    url: "mailto:marisalynhenry@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Hi there! 
+
+My name is Marisa. I’m a data scientist, currently based in Canmore, Alberta. 
+
+My work is focused on the design and evaluation of evidence-based programs, technologies, and systems to improve societal well-being. I have proven experience tackling complex analyses and communicating actionable insights from these analyses through presentations, written reports, and data visualizations. 
+
+Outside of work, I love hiking, playing with my puppy Atlas, baking, and exploring various creative outlets.
+
+If you're interested in collaborating, please reach out!  :) 
+
+## Education
+
+**Johns Hopkins University** | MSE Applied Mathematics and Statistics 
+
+**Cambridge University** | MPhil Engineering for Sustainable Development, Gates Cambridge Scholar
+
+**Purdue University** | BS Environmental and Ecological Engineering
+
+## Experience
+
+**Transit** | Data Scientist | September 2021 - Present
+
+**Stantec** | Data Engineer & Scientist | January 2021 - August 2021
+
+**Mathematica Policy Research** | Data Scientist | July 2019 - January 2021
