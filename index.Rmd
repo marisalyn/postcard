@@ -4,8 +4,6 @@ image: "headshot.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/marisalyn/"
-  - label: Twitter
-    url: "https://twitter.com/marisalyn"
   - label: GitHub
     url: "https://github.com/marisalyn"
   - label: Email
@@ -16,11 +14,11 @@ output:
  
 ## Hi there! 
 
-My name is Marisa. I’m a data scientist, currently based in Canmore, Alberta. 
+My name is Marisa. I’m a data scientist, currently based in Montreal.
 
 My work is focused on the design and evaluation of data-driven programs, technologies, and systems to improve societal well-being. I have proven experience tackling complex analyses and communicating actionable insights from these analyses through presentations, written reports, and data visualizations. 
 
-Outside of work, I love hiking, playing with my puppy Atlas, baking, and exploring various creative outlets.
+Outside of work, I love hiking, playing with my dog, and exploring various creative outlets.
 
 If you're interested in collaborating, please reach out!  :) 
 
